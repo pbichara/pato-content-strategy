@@ -22,7 +22,7 @@ Estrategia de contenido para posicionar a Pato Bichara como el referente #1 en *
 ## 2. Audiencia
 
 ### Primaria: C-Suite y Directivos
-- CEOs, VPs, Directores de empresas medianas y grandes en LatAm
+- CEOs, VPs, Directores de empresas grandes en LatAm
 - **Pain points:** Como transformar su organizacion con AI sin perder el rumbo, como desarrollar a sus equipos, como mantener relevancia competitiva
 - **Aspiracion:** Ser lideres que transforman, no solo administran
 
